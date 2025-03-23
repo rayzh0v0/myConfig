@@ -1,2 +1,2 @@
 # myConfig
-A repo for my config files.
+This is a repo for my config files.
